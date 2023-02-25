@@ -2,10 +2,15 @@
 
 ### Date created
 Project created on: Feb 20,2023
+
 README file created on Feb 25, 2023
 
 ### Project Title
 Bike Share Udacity Project
+
+### Suggested Requirements
+- Python 3.11 or above
+- pandas, numpy, and time libraries
 
 ### Description
 This program asks for user input to decide on what city (out of Chicago, Washington, and New York), month (from January to June, or all months), and day of the week the user wants to see data for. When the city, month, and day are inputed and accepted, the program will then show the following details:
@@ -32,4 +37,6 @@ The files chicago.csv, new_york_city.csv, and washington.csv are used to pull th
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 - Git Push and Pull Tutorial was used to help remind me on how push and pulls work on the command line. You can access it here: https://www.datacamp.com/tutorial/git-push-pull
 - Git Checkout was used to remind me on how branches where created, switched to, and used. You can find this page here: https://www.atlassian.com/git/tutorials/using-branches/git-checkout#:~:text=The%20git%20branch%20command%20can,to%20switch%20to%20that%20branch.
+- Github's whole website helped me with visuals in how to use terminal when working with commits and pushes.
+- Udacity gave me a base amount of knowledge to work off of using python to create this project.
 
