@@ -33,6 +33,10 @@ Every 5 lines of data given, the user will be prompted if they wish to see more 
 ### Files used
 The files chicago.csv, new_york_city.csv, and washington.csv are used to pull the bike share data for the city in which the data is named after. The washington.csv does not include any gender or birth year data. All of these were provided by Udacity.
 
+### Bugs
+- When asked for user input on a yes or no question, if the yes is not spelled correctly or is just a "y" then it will see that as a no.
+- If the user says yes to seeing more data it will show the same data that it had before. 
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 - Git Push and Pull Tutorial was used to help remind me on how push and pulls work on the command line. You can access it here: https://www.datacamp.com/tutorial/git-push-pull
