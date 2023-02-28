@@ -198,6 +198,7 @@ def user_stats(df):
     except:
         print ("There is no birth information in this file, since you chose the evergood Evergreen state...")
         print ("aka Washington...")
+        print ("I am trying to make this entertaining. I hope its working...")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
